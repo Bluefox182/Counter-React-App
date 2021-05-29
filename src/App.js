@@ -1,7 +1,7 @@
-import Contador from "./components/Contador";
+import Card from "./components/Card";
 
 const App = () => {
-  return <Contador />;
+  return <Card />;
 };
 
 export default App;
