@@ -1,12 +1,16 @@
 body {
-  background-image: linear-gradient(
+  /* background-image: linear-gradient(
     to right top,
     #186be4,
     #1775e5,
     #207fe6,
     #2e89e6,
     #3d92e5
-  );
+  ); */
+  background-image: url(../images/background01.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right;
 }
 .card {
   display: flex;
